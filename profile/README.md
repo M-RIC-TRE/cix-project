@@ -10,3 +10,6 @@ Work Package Objectives (24 months)
 
 ## Project Documentation
 The project is currently in its initiation stage. Requirements, design and other information is currently being developed in the [MVP Docs repository wiki](https://github.com/M-RIC-TRE/mvp-docs)
+
+ - [Git branching logic and GitHub CI description](https://github.com/M-RIC-TRE/mvp-docs/wiki/Branching-strategy-and-CI)
+ 
